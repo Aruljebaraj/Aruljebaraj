@@ -1,11 +1,15 @@
 
-![image](https://github.com/Aruljebaraj/Aruljebaraj/assets/34904782/0d167df9-4e56-403a-8941-89fbebdd1710)
+<!-- <img  alt="GIF" src="https://raw.githubusercontent.com/gauravmehta13/gauravmehta13/master/code.gif"/>-->
 <h1 align="center">Hi 👋, I'm Arul Jebaraj </h1>
 <p align="center" display="block">
 <!--   <img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=5001&color=2d7e5e&vCenter=true&center=true&width=460&lines=full-stack+web+developer" /> -->
  <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Schyler&size=25&pause=1000&color=09A123&width=435&lines=MOBILE+APPLICATION+DEVELOPER" alt="Typing SVG" /></a>
 </p> 
-<h3 align="center"><img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" width="400" /></h3>
+
+<h3 align="center"><img align="right" alt="GIF" src="https://raw.githubusercontent.com/gauravmehta13/gauravmehta13/master/code.gif" width=
+                    "400"/>
+<!--  <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" width="400" />-->
+</h3>
 
 - 👨🏾‍💻 Flutter Developer
 
