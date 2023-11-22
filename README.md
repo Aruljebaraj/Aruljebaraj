@@ -24,7 +24,7 @@
 <a href="https://www.java.com/en/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  alt="java" width="40" height="40" /></a> </a><a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a><a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a><a href="https://spring.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/> </a>
 
 
-<a href="https://app.daily.dev/aruljebaraj"><img src="https://api.daily.dev/devcards/dc227499ba8342a8a948d6611d15c2ce.png?r=hxk" width="400" alt="Arul Jebaraj's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/aruljebaraj"><img src="https://api.daily.dev/devcards/dc227499ba8342a8a948d6611d15c2ce.png?r=hxk" width="400" alt="Arul Jebaraj's Dev Card"/></a>
 <!-- </p>-->
 
 
